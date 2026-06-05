@@ -1,0 +1,26 @@
+videos:
+  - path: data/videos/single_close_low_speed_01.mp4
+    category: single_close_low_speed
+  - path: data/videos/single_close_low_speed_02.mp4
+    category: single_close_low_speed
+  - path: data/videos/single_close_low_speed_03.mp4
+    category: single_close_low_speed
+  - path: data/videos/single_medium_01.mp4
+    category: single_medium
+  - path: data/videos/single_medium_02.mp4
+    category: single_medium
+  - path: data/videos/single_medium_03.mp4
+    category: single_medium
+  - path: data/videos/strong_lean_01.mp4
+    category: strong_lean
+  - path: data/videos/strong_lean_02.mp4
+    category: strong_lean
+  - path: data/videos/vertical_01.mp4
+    category: vertical
+  - path: data/videos/vertical_02.mp4
+    category: vertical
+  - path: data/videos/long_shot_01.mp4
+    category: long_shot
+  - path: data/videos/long_shot_02.mp4
+    category: long_shot
+

@@ -1,0 +1,9 @@
+[project]
+name = "skicheck-pose-lab"
+version = "0.1.0"
+description = "Independent pose model validation lab for SkiCheck skiing videos"
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
